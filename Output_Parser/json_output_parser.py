@@ -29,3 +29,9 @@ print(type(final_result))
 chain = template | model | parser
 result = chain.invoke({})
 print(result)
+
+
+# Disadvantage
+"""
+    1. Structured output
+"""
