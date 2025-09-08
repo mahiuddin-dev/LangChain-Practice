@@ -9,6 +9,8 @@ openai
 # Anthropic Integration
 langchain-anthropic
 
+langchain_community
+
 # Google Gemini (PaLM) Integration
 langchain-google-genai
 google-generativeai
