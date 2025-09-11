@@ -29,3 +29,6 @@ scikit-learn
 
 pydantic
 pypdf
+duckduckgo-search 
+langchain_experimental
+ddgs
