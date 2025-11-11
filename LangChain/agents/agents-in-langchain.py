@@ -11,7 +11,7 @@ load_dotenv()
 
 
 search_tool = DuckDuckGoSearchRun()
-results = search_tool.invoke('top news in us today')
+# results = search_tool.invoke('top news in us today')
 
 # LLM model
 llm = ChatOpenAI()
